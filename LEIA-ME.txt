@@ -1,0 +1,30 @@
+NEXT BUSINESS FUTURE — LANDING PAGE
+=====================================
+
+Arquivos:
+- index.html: estrutura e conteúdo da página única
+- style.css: identidade visual responsiva (azul-marinho, azul, branco e amarelo)
+- script.js: menu mobile, animações de entrada e links de WhatsApp
+- assets/logo-nbf.jpg: recorte da marca da capa do PDF enviado
+
+Como abrir:
+1. Extraia o ZIP.
+2. Abra a pasta NBF_LANDING_PAGE.
+3. Dê dois cliques em index.html (Chrome, Edge ou Firefox).
+4. Para publicar, envie todos os arquivos mantendo a estrutura de pastas para sua hospedagem.
+
+Conteúdo utilizado:
+- História, missão, visão e valores: material institucional NBF enviado.
+- Fluxo de funcionamento e benefícios: material institucional NBF enviado.
+- Concorrentes e pontos fortes/de atenção: página de concorrentes do PDF enviado.
+- Planos: valores e itens do flyer NBF: Básico R$ 99,90/mês; Profissional R$ 299,90/mês; Empresarial a partir de R$ 799,90/mês.
+
+ATENÇÃO — antes de publicar:
+- O WhatsApp configurado no script.js é demonstrativo: 55 11 98765-4321. Troque WHATSAPP_NUMBER pelo número oficial em formato internacional, apenas números.
+- O telefone (11) 4000-2026 e o e-mail suporte@nbf.com foram exibidos como canais informados no flyer/conversa; confirme se estão ativos e sob controle da NBF antes de divulgar.
+- Os planos e funcionalidades são apresentados conforme o material enviado. Confirme a disponibilidade operacional de cada recurso antes de comercializar.
+- A página não contém investimentos, projeções de vendas, marketing ou problemas internos, conforme solicitado.
+- A comparação competitiva reproduz uma síntese da análise do PDF enviado; não representa auditoria independente ou validação atual dos fornecedores.
+- A imagem de interface do painel é uma ilustração visual, não uma captura de uma plataforma conectada.
+
+A página é front-end estático (HTML/CSS/JavaScript), sem banco de dados ou formulário de captação.
